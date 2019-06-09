@@ -16,7 +16,7 @@
     * [MBTI职业性格测试](#mbti职业性格测试)
 * [认识科研](#认识科研)
 * [经历经验](#经历经验)
-* [生化环材劝退](#生化环材劝退)
+* [劝退专业](#劝退专业)
 * [贡献](#贡献)
 
 <!-- vim-markdown-toc -->
@@ -106,8 +106,8 @@ emmm, 这里有hao123做的导航, [点击查看](http://www.hao123.com/edu)
 * [留美博士生写给后来人的辛酸回忆：你适合读博士和搞科研吗？_教子砖家梦里江河](http://blog.sina.cn/dpool/blog/s/blog_4ee63ce90102ea4x.html)
 * [别人的故事（2） - 弗兰克扬的文章 - 知乎](https://zhuanlan.zhihu.com/p/24543168)
 
-# 生化环材劝退
-
+# 劝退专业
+* [你认为高考填报志愿时，哪些专业必须谨慎选择？](https://www.zhihu.com/question/47539927)
 * [现在学生物出路真有那么不济吗？ - 知乎](https://www.zhihu.com/question/28347460)
 * [现在学生物出路真有那么不济吗？-知乎](https://www.zhihu.com/question/28347460)
 * [大学的生物专业真的那么坑吗？ - 葉神月的回答 - 知乎](https://www.zhihu.com/question/26106045/answer/76377967)
